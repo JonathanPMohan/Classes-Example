@@ -5,7 +5,7 @@ namespace ClassesExamples
     class Program
     {
         private static void Main(string[] args)
-        {
+        { // variable //
             var taffy = new Candy("Orange", "Orange Saltwater Taffy", CandyType.Stretchy);
 
             taffy.SetRating(10);
